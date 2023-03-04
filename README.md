@@ -33,7 +33,7 @@ The fuzzy-octo-disco is a Python application that allows users to visualize audi
 ***
 
 # License
-### This Audio Visualizer is licensed under the MIT License.
+### This Audio Visualizer is licensed under the GNU GENERAL PUBLIC LICENSE.
 
 ***
 
